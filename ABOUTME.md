@@ -1,7 +1,4 @@
 ## Wayne Moore
-I am a student at Concordia University, Nebraska. My major is Business, Marketing, and Info Tech (BMIT) Secondary Education. Here, I also participate on the shooting sports team
-which is clay target shooting. In addition to this, some of my hobbies inlcude sports, hunting, and watching movies/shows.
+I am a student at Concordia University, Nebraska. My major is Business, Marketing, and Info Tech (BMIT) Secondary Education. Here, I also participate on the shooting sports team which is clay target shooting. In addition to this, some of my hobbies inlcude sports, hunting, and watching movies/shows.
 
-I am relatively new to coding, as it has never been a big interest for me. My first experience to coding was my junior year of college, taking a computer programming class per a 
-requirement for my degree. It was not easy for me by any means and challenged me quite often. Though I found it interesting and cool to know, it did not spark a new love for me
-necessarily. Though this is course is being taken mainly as a requirement for my degree, I think it is fairly interesting still and a good skill to know.
+I am relatively new to coding, as it has never been a big interest for me. My first experience to coding was my junior year of college, taking a computer programming class per a requirement for my degree. It was not easy for me by any means and challenged me quite often. Though I found it interesting and cool to know, it did not spark a new love for me necessarily. Though this is course is being taken mainly as a requirement for my degree, I think it is fairly interesting still and a good skill to know.
